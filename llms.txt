@@ -1,0 +1,34 @@
+# Ink Comparison
+
+> Ink Comparison (inkcomparison.co.uk) is a UK site that compares printer ink and toner prices across UK shops, organised by printer. It lists original and compatible cartridges side by side, with prices including delivery, and shows which cartridges each printer takes. It covers about 7,700 printers from 18 brands, including HP, Canon, Epson and Brother, plus a paper and labels section compared per ream or per sheet.
+
+Prices are made available by the shops themselves and are refreshed several times a week. They change often, so please send readers to the page rather than quoting a price.
+
+## Find ink for a printer
+
+- [All printers](https://inkcomparison.co.uk/printers/): every printer we cover, with the cartridge numbers it takes
+- Printer pages live at https://inkcomparison.co.uk/printers/<brand-range-model>/, for example /printers/hp-deskjet-2720/
+- Cartridge pages live at https://inkcomparison.co.uk/cartridges/<brand-code>/, for example /cartridges/hp-305xl/
+
+## Brands
+
+- [HP printer cartridges](https://inkcomparison.co.uk/brands/hp/)
+- [Ink tank printers and ink bottles](https://inkcomparison.co.uk/ink-tank-printers/)
+- [Portable printers](https://inkcomparison.co.uk/portable-printers/)
+- [Paper, photo paper and labels](https://inkcomparison.co.uk/paper/)
+- [Buy a printer](https://inkcomparison.co.uk/buy-printers/): printer prices with cost per page
+- [Cheapest printers to run](https://inkcomparison.co.uk/cheapest-printers-to-run/): printers ranked by cost per page
+- [Tattoo stencil printers and paper](https://inkcomparison.co.uk/tattoo-stencil-printers/)
+- [Label printer tapes and labels](https://inkcomparison.co.uk/label-printers/): Dymo and Brother P-touch tapes by printer
+- [Dymo label printers and labels](https://inkcomparison.co.uk/dymo-label-printers/)
+
+## Guides and questions
+
+- [All guides](https://inkcomparison.co.uk/guides/)
+- [Printer ink FAQ](https://inkcomparison.co.uk/faq/)
+
+- [Are compatible ink cartridges safe?](https://inkcomparison.co.uk/guides/are-compatible-ink-cartridges-safe/)
+
+## About
+
+- [About Ink Comparison](https://inkcomparison.co.uk/about/)
